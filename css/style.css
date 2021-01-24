@@ -112,6 +112,10 @@ h6 {
   color: #fff;
 }
 
+.header__menu a:visited {
+  color: inherit;
+}
+
 .menu-item {
   cursor: pointer;
 }
