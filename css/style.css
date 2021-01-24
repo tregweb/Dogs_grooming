@@ -663,6 +663,7 @@ h1 {
 }
 
 .reviews {
+  padding-top: 90px;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
