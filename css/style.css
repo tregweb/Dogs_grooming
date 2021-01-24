@@ -112,6 +112,10 @@ h6 {
   color: #fff;
 }
 
+.menu-item {
+  cursor: default;
+}
+
 .phone {
   font-weight: 700;
   font-size: 28px;
@@ -442,6 +446,10 @@ h1 {
   width: 800px;
 }
 
+.slider-nav-arrow picture img {
+  cursor: pointer;
+}
+
 .slider-nav-arrow {
   cursor: pointer;
   display: -webkit-box;
@@ -738,9 +746,9 @@ h1 {
   left: -46px;
   overflow: hidden;
   border-radius: 50%;
-  -webkit-transition: 1s 2.8s;
-  -o-transition: 1s 2.8s;
-  transition: 1s 2.8s;
+  -webkit-transition: 1s 4.5s;
+  -o-transition: 1s 4.5s;
+  transition: 1s 4.5s;
 }
 
 .smile-ava {
@@ -778,9 +786,9 @@ h1 {
   padding-top: 26px;
   color: #05659b;
   font-size: 23px;
-  -webkit-transition: 1s 1.8s;
-  -o-transition: 1s 1.8s;
-  transition: 1s 1.8s;
+  -webkit-transition: 1s 3.5s;
+  -o-transition: 1s 3.5s;
+  transition: 1s 3.5s;
 }
 
 .smile-name {
@@ -943,6 +951,18 @@ h1 {
 
 .net {
   padding: 0 10px;
+}
+
+* {
+  cursor: default;
+}
+
+a {
+  cursor: pointer;
+}
+
+.net a img {
+  cursor: pointer;
 }
 
 .wrapper {
